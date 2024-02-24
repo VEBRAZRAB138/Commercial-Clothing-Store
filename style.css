@@ -352,7 +352,7 @@ body{
     justify-content: center;
     align-items: flex-start;
     background-image: url("img/banner/b17.jpg");
-    width: 580px;
+    min-width: 580px;
     height: 50vh;
     background-size: cover;
     background-position: center;
@@ -720,6 +720,34 @@ footer .copyright {
     }
 
 }
+
+@media (max-width: 2559px) {
+    #hero {
+        height: 100vh;
+        padding: 0 80px;
+        background-position: top 30% right 30%;
+    }
+
+    #feature {
+        justify-content: center;    
+    }
+
+    #feature .fe-box {
+        width: 250px;
+        margin: 15px 15px;
+    }
+
+    #sm-banner {
+        justify-content: center;
+    }
+
+    #sm-banner .banner-box {
+        width: 47%;
+        margin: 15px;
+    }
+
+}
+
 
 
 
