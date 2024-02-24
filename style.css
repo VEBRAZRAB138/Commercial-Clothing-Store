@@ -146,7 +146,7 @@ body{
 
 /* Домашняя страница Home Page */
 #hero{
-    background-image: url("img/var4.jpg");
+    background-image: url("img/fons.jpg");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -165,16 +165,6 @@ body{
 
 #hero h1{
     color: #088178;
-    
-}
-
-#hero button{
-    background-image: url("img/button\ копия.jpg");
-    background-color: transparent;
-    color: #088178;
-    border: 0;
-    padding: 14px 80px 14px 65px;
-    
     
 }
 
