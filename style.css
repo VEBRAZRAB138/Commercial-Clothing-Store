@@ -631,6 +631,12 @@ footer .copyright {
     line-height: 25px;
 }
 
+/* Blog page - Блог*/
+
+#page-header.blog-header {
+    background-image: url("./img/banner/b19.jpeg");
+}
+
 
 
 
